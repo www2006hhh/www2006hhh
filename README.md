@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I'm 汪浩,from Suining City,Sichuan Province,China.I'm currently studying at Chengdu College of University of Electronic Science and techonlogy of China.I am currently majoring in Artificial Intelligence, so I want to learn more relevant knowledge.
 
 <!--
 **www2006hhh/www2006hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
